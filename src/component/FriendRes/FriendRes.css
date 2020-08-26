@@ -1,0 +1,15 @@
+.friendStyle{
+    display: flex;
+    justify-content: space-around;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding:20px;
+    align-items: center;
+}
+.mainInfo{
+    margin-left: -115px;
+}
+.button{
+    padding: 10px 20px;
+    /* margin-top: 80px; */
+}
